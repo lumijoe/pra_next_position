@@ -14,5 +14,6 @@ export default function Home() {
       <JobHistory />
       <TestContents />
     </div>
+    // コマンド
   )
 }
