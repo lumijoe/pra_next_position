@@ -14,6 +14,5 @@ export default function Home() {
       <TestContents />
       {/* Footer(pages/_app.js) */}
     </div>
-    // コマンド
   )
 }
