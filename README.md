@@ -38,5 +38,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# practice_position_next
-# practice_positionNext
+
+## npm run dev → error
+
+% npm run dev
+> practice_position_next@0.1.0 dev
+> next dev
+sh: next: command not foundが表示されたら
+% rm -rf node_modules
+npm install　の２行を入力、完了後に再インストール
+% npm install nextを入力、完了後に
+npm run dev
+> practice_position_next@0.1.0 dev
+> next dev
+   ▲ Next.js 14.0.1
+   - Local:        http://localhost:3000
+が表示される。
+
+
