@@ -5,6 +5,7 @@ import React from 'react';
 export default function TestContents() {
     return (
         <div className="bg-pink-600">
+            <p className="text-white">ここからTestcontentsコンポーネント</p>
             <p className="text-white">test1</p>
             <p className="text-white">test2</p>
             <p className="text-white">test3</p>

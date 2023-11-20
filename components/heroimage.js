@@ -18,6 +18,7 @@ export default function HeroImage() {
                     <div className="text-white">ABOUT</div>
                     <div className="text-white">ABOUT</div>
                     <div className="text-white">ABOUT</div>
+                    <div className="text-white">ここまでHeroimageコンポーネント↓</div>
                 </div>
             </div>
             
